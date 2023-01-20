@@ -1,9 +1,9 @@
-[![MasterHead]([https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento_still_2x.gif?compress=1&resize=400x300](https://qrangers.com/wp-content/uploads/2021/09/Banner-Introduction-to-3D-Animation.png))
+[![MasterHead](https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento_still_2x.gif?compress=1&resize=400x300](https://qrangers.com/wp-content/uploads/2021/09/Banner-Introduction-to-3D-Animation.png))
 <h1 align="center">Hi 👋, I'm Mohammed Thasin</h1>
 <h3 align="center">A passionate android and web developer.</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif">
+<img align="center" alt="Coding" width="400" src="https://media.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif">
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=thasinmunshi&label=Profile%20views&color=0e75b6&style=flat" alt="thasinmunshi" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=thasinmunshi&label=Profile%20views&color=0e75b6&style=flat" alt="thasinmunshi" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thasinmunshi" alt="thasinmunshi" /></a> </p>
 
