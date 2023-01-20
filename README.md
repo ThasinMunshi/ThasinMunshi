@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento_still_2x.gif?compress=1&resize=400x300](https://qrangers.com/wp-content/uploads/2021/09/Banner-Introduction-to-3D-Animation.png))
+[![MasterHead](https://qrangers.com/wp-content/uploads/2021/09/Banner-Introduction-to-3D-Animation.png)
 <h1 align="center">Hi 👋, I'm Mohammed Thasin</h1>
 <h3 align="center">A passionate android and web developer.</h3>
 <img align="center" alt="Coding" width="400" src="https://media.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif">
